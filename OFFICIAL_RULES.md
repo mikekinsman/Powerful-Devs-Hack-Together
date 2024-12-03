@@ -20,7 +20,7 @@ To enter, you must be eighteen (18) years of age or older. If you are eighteen (
 
 The Contest is a closed promotion open only to individual entrants or Teams that meet the following criteria:
 
-- **Teams:** Each Team must be comprised of one (1) Team Leader and one (1) or more Team Members, but no more than 8 Team Members total. The Team Leader may count as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
+- **Teams:** Each Team must be comprised of one (1) Team Leader and one (1) or more Team Members, but no more than 6 Team Members total. The Team Leader may count as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
 - **Team Leaders:** Each Team leader (the “Team Leader”) must be, as of February 13, 2025, eighteen (18) years of age or older. One (1) Team Leader may lead multiple Teams.
 - **Team Members:** Each student member of a Team (“Team Member”) must be, as of February 13, 2025, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
 

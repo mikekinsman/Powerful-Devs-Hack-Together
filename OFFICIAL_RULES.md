@@ -14,7 +14,7 @@ In these Rules, “Microsoft,” “we,” “our,” and “us” refer to Spon
 
 **3.	ENTRY PERIOD**
 
-The Contest starts at 12:01 a.m. Pacific Time (PT) on February 13, 2025, and ends at 11:59 p.m. PT on September 28, 2025 (“Entry Period”).
+The Contest starts at 12:01 a.m. Pacific Time (PT) on February 13, 2025, and ends at 11:59 p.m. PT on February 28, 2025 (“Entry Period”).
 
 To enter, you must be eighteen (18) years of age or older. If you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian.
 

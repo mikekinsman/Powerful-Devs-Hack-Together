@@ -1,33 +1,49 @@
-# Project
+# Powerful Devs Hack Together: Build Scalable, Secure Solutions, Innovate with AI, and become #PowerfulDevs!
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+<img width="1599" alt="RAG AI Hack Banner" src="media\Powerful Devs Hack Banner.png">
 
-As the maintainer of this project, please make a few updates:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+It's time to start developing secure solutions at enterprise scale using the power of AI and the Power Platform! 🤖 + 📚 = 🔥
 
-## Contributing
+The Power Platform (Power Apps, Copilot Studio, Power Automate, and Power Pages) are powerful tools to help any maker build any app, flow, site or agent they need, but how can professional developers get the most out of what the Power Platform has to offer? 
+Through the Powerful Devs Conference and corresponding Hack Together, you will learn about ways you can use the Power Platform to enhance your productivity as a professional developer. Through these sessions, you'll learn about using gen AI in Copilot Studio, Managed Identities in Dataverse, how to extend your solutions as a developer by using external connectors using Visual Studio Code, and so much more. 
+The Powerful Devs: Hack Together is your opportunity to apply what you've learned and build a solution yourself, using all the new tools in your toolkit. Across 14 sessions in both the conference and hackathon, you will learn all about how to be a Powerful Developer by using the Power Platform. The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+The conference is on February 12th and the corresponding hackathon runs from February 13th to February 28th. Hack submissions are due February 28th, 11:59 PM PST. Join us!
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Register
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Register for the hackathon using any of the sessions linked on the Reactor Series page. This will register you for both the selected session and the hackathon.
+Introduce yourself and look for teammates here on GitHub Discussions.
 
-## Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## Official Rules
+
+Read the [official rules](https://github.com/microsoft/Powerful-Devs-Hack-Together/blob/main/OFFICIAL_RULES.md) 📃
+
+
+## Project Submission
+
+Hack submissions are due February 28th, 11:59 PM PST.
+Submit your project here in GitHub Issues when it's ready🚀
+
+Check out this video for step by step project submission guidance (Coming Soon)
+
+
+
+## Prizes and Categories 🏅
+
+Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
+Each winning team in the categories below will receive a cash prize of $550. 💸
+
+* Best Overall
+* Best in Power
+* Best in Integrations
+* Best in Automation
+* Best in Applications
+* Best in Agents
+* Best in Pages
+* Best in AI
+
+All hackathon participants who submit a project will receive a digital badge.
+

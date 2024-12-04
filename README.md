@@ -2,6 +2,7 @@
 
 <img width="1599" alt="Powerful Devs Hack Banner" src="media/Powerful Devs Banner Hack Together.png">
 
+🛠️ Build, innovate, and #Hacktogether! 🛠️
 
 It's time to start developing secure solutions at enterprise scale using the power of AI and the Power Platform! 🤖 + 📚 = 🔥
 

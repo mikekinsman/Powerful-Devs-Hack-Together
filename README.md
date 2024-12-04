@@ -1,6 +1,6 @@
 # Powerful Devs Hack Together: Build Scalable, Secure Solutions, Innovate with AI, and become #PowerfulDevs!
 
-<img width="1599" alt="Powerful Devs Hack Banner" src="media\Powerful Devs Hack Banner.png">
+<img width="1599" alt="Powerful Devs Hack Banner" src="media/Powerful Devs Banner Hack Together.png">
 
 
 It's time to start developing secure solutions at enterprise scale using the power of AI and the Power Platform! 🤖 + 📚 = 🔥

@@ -1,5 +1,5 @@
 name: 'Powerful Devs: Hack Together Project Submission Form'
-about: Share your project with us to get a digital badge and win prizes
+description: Share your project with us to get a digital badge and win prizes
 title: "Project: <short description>"
 body:
   - type: input

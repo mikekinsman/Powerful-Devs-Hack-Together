@@ -21,7 +21,7 @@ body:
       label: Technology & Languages
       description: Check any technologies or languages used for your solution.
       options:
-        - label: Integrations with tools outside of the Power Platform (M365, Connectors)? 
+        - label: Integrations with tools outside of the Power Platform ()
           required: false
         - label: Power Automate
           required: false  

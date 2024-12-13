@@ -102,6 +102,4 @@ body:
       options:
         - label: Copilot Studio2
           required: false
-        - label: Power Apps2
-          required: false  
-    
+

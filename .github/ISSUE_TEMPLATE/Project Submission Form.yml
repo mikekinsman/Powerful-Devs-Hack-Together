@@ -66,5 +66,12 @@ body:
       description: How is this solution AI powered?
     validations:
       required: true
+  - type: input
+    id: url_setup
+    attributes:
+      label: Project Setup Instructions URL
+      description: Direct URL of the written setup instructions for your project
+    validations:
+      required: true
 
 

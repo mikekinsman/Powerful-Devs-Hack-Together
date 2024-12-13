@@ -16,35 +16,7 @@ body:
       description: Provide a short description of your solution. What data sources did you use? How would this solution scale? How does this solution ensure security best practices?
     validations:
       required: true
-  - type: checkboxes
-    attributes:
-      label: Technology & Languages
-      description: Check any technologies or languages used for your solution.
-      options:
-        - label: Integrations with external systems
-          required: false
-        - label: Power Automate
-          required: false  
-        - label: Power Apps
-          required: false 
-        - label: Copilot Studio
-          required: false
-        - label: Power Pages
-          required: false
-        - label: AI (AI Builder, Copilot, Azure AI, etc)
-          required: false
-        - label: PowerFx
-          required: false
-        - label: .NET
-          required: false
-        - label: Typescript
-          required: false
-        - label: Python
-          required: false
-        - label: M365
-          required: false
-        - label: Azure
-          required: false
+
 - type: input
   id: question_1
   attributes:

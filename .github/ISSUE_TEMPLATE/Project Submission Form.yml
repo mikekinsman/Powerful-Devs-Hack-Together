@@ -97,11 +97,11 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Technology & Languages
-      description: Check any technologies or languages used for your solution.
+      label: Technology & Languages 2
+      description: Check any technologies or languages used for your solution.2
       options:
-        - label: Copilot Studio
+        - label: Copilot Studio2
           required: false
-        - label: Power Apps
+        - label: Power Apps2
           required: false  
     

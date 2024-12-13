@@ -46,24 +46,24 @@ body:
         - label: Azure SQL
           required: false 
   - type: input
-    id: url_repo
+    id: question_1
     attributes:
-      label: Project Repository URL
-      description: URL of the GitHub repo with your project
+      label: Scalability of your solution
+      description: How would this solution scale?
     validations:
       required: true
   - type: input
-    id: url_repo2
+    id: question_2
     attributes:
-      label: Project Repository URL2
-      description: URL of the GitHub repo with your project
+      label: Security of your solutiuon
+      description: How does this solution ensure security best practices?
     validations:
       required: true
   - type: input
-    id: url_repo3
+    id: question_3
     attributes:
-      label: Project Repository URL3
-      description: URL of the GitHub repo with your project
+      label: AI-power of your solution
+      description: How is this solution AI powered?
     validations:
       required: true
 

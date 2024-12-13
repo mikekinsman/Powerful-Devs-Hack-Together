@@ -46,11 +46,9 @@ body:
         - label: Azure
           required: false
   - type: input
-  id: question_1
-  attributes:
-    label: Scalability of your solution
-    description: How would this solution scale?
-  validations:
+    id: question_2
+    attributes:
+      label: Security of your solution
+      description:  How does this solution ensure security best practices?
+    validations:
     required: true
-
-

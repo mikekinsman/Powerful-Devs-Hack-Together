@@ -37,7 +37,7 @@ body:
           required: false
         - label: TypeScript
           required: false
-        - label: Azure SQL
+        - label: Python
           required: false 
   - type: input
     id: url_repo

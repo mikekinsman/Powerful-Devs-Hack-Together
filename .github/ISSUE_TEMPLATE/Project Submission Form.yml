@@ -1,4 +1,4 @@
-name: Project Submission
+name: Powerful Devs: Hack Together Project Submission Form
 description: "Share your project with us to get a digital badge and win prizes!"
 title: "Project: <short description>"
 body:
@@ -13,7 +13,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Provide a short description of your RAG app. What data sources did you use? Did you make additional modifications to the data ingestion or prompting flows? Who can benefit from your app?
+      description: Provide a short description of your RAG app. What data sources did you use? Who can benefit from your app?
     validations:
       required: true
   - type: checkboxes
@@ -21,23 +21,23 @@ body:
       label: Technology & Languages
       description: Check any technologies or languages used for your RAG app.
       options:
-        - label: JavaScript
+        - label: Copilot Studio
           required: false
-        - label: Java
+        - label: Power Automate
           required: false  
-        - label: .NET
+        - label: Power Apps
           required: false 
+        - label: Power Pages
+          required: false
+        - label: AI (AI Builder, Copilot, Azure AI, etc)
+          required: false
+        - label: PowerFx
+          required: false
+        - label: .NET
+          required: false
+        - label: Typescript
+          required: false
         - label: Python
-          required: false
-        - label: AI Studio
-          required: false
-        - label: AI Search
-          required: false
-        - label: PostgreSQL
-          required: false
-        - label: Cosmos DB
-          required: false
-        - label: Azure SQL
           required: false 
   - type: input
     id: url_repo

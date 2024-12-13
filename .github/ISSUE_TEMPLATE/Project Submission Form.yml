@@ -87,10 +87,3 @@ body:
     description: Comma-separated list of GitHub users who worked on this project
   validations:
     required: true
-- type: checkboxes
-  attributes:
-    label: Badge validation
-    description: In order to recieve your badge, please fill out the following form: aka.ms/PowerfulDevs/Badges. Every member on the team must submit this form to recieve a badge. If you do not submit this form, you will not recieve a badge. Please check this box to confirm all team members have submitted the badge distribution form.
-    options:
-      - label: I verify that all of my team members have completed the badge validation form.
-        required: true

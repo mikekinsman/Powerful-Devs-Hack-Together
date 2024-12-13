@@ -102,4 +102,6 @@ body:
       options:
         - label: I verify that all of my team members have completed the badge validation form.
         required: false
+        - label: I verify that too  all of my team members have completed the badge validation form.
+        required: false
 

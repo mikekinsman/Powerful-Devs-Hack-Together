@@ -1,1 +1,69 @@
-
+name: Project Submission
+description: "Share your project with us to get a digital badge and win prizes!"
+title: "Project: <short description>"
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Project Name
+      description: Name of your project
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a short description of your RAG app. What data sources did you use? Did you make additional modifications to the data ingestion or prompting flows? Who can benefit from your app?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Technology & Languages
+      description: Check any technologies or languages used for your RAG app.
+      options:
+        - label: JavaScript
+          required: false
+        - label: Java
+          required: false  
+        - label: .NET
+          required: false 
+        - label: Python
+          required: false
+        - label: AI Studio
+          required: false
+        - label: AI Search
+          required: false
+        - label: PostgreSQL
+          required: false
+        - label: Cosmos DB
+          required: false
+        - label: Azure SQL
+          required: false 
+  - type: input
+    id: url_repo
+    attributes:
+      label: Project Repository URL
+      description: URL of the GitHub repo with your project
+    validations:
+      required: true
+  - type: input
+    id: url_endpoint
+    attributes:
+      label: Deployed Endpoint URL
+      description: URL of a deployed endpoint (if it can be publicly shared, not for private data)
+    validations:
+      required: false
+  - type: input
+    id: video
+    attributes:
+      label: Project Video
+      description: A short demo video of your project
+    validations:
+      required: true
+  - type: input
+    id: teammembers
+    attributes:
+      label: Team Members
+      description: Comma-separated list of GitHub users who worked on this project
+    validations:
+      required: true

@@ -25,7 +25,7 @@ body:
           required: false
         - label: Power Apps
           required: false  
-        - label: .NET
+        - label: Power Automate
           required: false 
         - label: Python
           required: false

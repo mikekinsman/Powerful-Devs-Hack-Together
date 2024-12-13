@@ -23,7 +23,7 @@ body:
       options:
         - label: Copilot Studio
           required: false
-        - label: Java
+        - label: Power Apps
           required: false  
         - label: .NET
           required: false 

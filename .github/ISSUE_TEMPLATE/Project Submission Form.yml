@@ -1,5 +1,5 @@
-name: Powerful Devs: Hack Together Project Submission Form
-description: "Share your project with us to get a digital badge and win prizes"
+name: 'Powerful Devs: Hack Together Project Submission Form'
+description: "Share your project with us to get a digital badge and win prizes!"
 title: "Project: <short description>"
 body:
   - type: input
@@ -13,7 +13,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Provide a short description of your solution. What data sources did you use? How would this solution scale? How does this solution ensure security best practices?
+      description: Provide a short description of your RAG app. What data sources did you use? Did you make additional modifications to the data ingestion or prompting flows? Who can benefit from your app?
     validations:
       required: true
   - type: checkboxes
@@ -21,75 +21,85 @@ body:
       label: Technology & Languages
       description: Check any technologies or languages used for your solution.
       options:
-        - label: Integrations with external systems
-          required: false
-        - label: Power Automate
-          required: false  
-        - label: Power Apps
-          required: false 
         - label: Copilot Studio
           required: false
+        - label: Power Apps
+          required: false  
+        - label: Power Automate
+          required: false 
         - label: Power Pages
           required: false
-        - label: AI (AI Builder, Copilot, Azure AI, etc)
+        - label: AI (AI Builder, Copilot, Azure AI, etc.)
+          required: false
+        - label: Integrations with external systems
           required: false
         - label: PowerFx
           required: false
         - label: .NET
           required: false
-        - label: Typescript
+        - label: TypeScript
           required: false
         - label: Python
           required: false
         - label: M365
           required: false
-        - label: Azure
-          required: false
-- type: input
-  id: question_1
-  attributes:
-    label: Scalability of your solution
-    description: How would this solution scale?
-  validations:
-    required: true
-- type: input
-  id: question_2
-  attributes:
-    label: Security of your solution
-    description:  How does this solution ensure security best practices?
-  validations:
-    required: true
-- type: input
-  id: question_3
-  attributes:
-    label: AI-power of your solution
-    description:   How is this solution AI powered?
-  validations:
-    required: true
-- type: input
-  id: url_repo
-  attributes:
-    label: Project Repository URL
-    description: Direct URL of the written setup instructions for your project
-  validations:
-    required: true
-- type: input
-  id: video
-  attributes:
-    label: Project Video
-    description: A short demo video of your project
-  validations:
-    required: true
-- type: input
-  id: teammembers
-  attributes:
-    label: Team Members
-    description: Comma-separated list of GitHub users who worked on this project
-  validations:
-    required: true
-- type: checkboxes
-  attributes:
-    label: Badge validation
-    description: In order to recieve your badge, please fill out the following form: aka.ms/PowerfulDevs/Badges. Every member on the team must submit this form to recieve a badge. If you do not submit this form, you will not recieve a badge. Please check this box to confirm all team members have submitted the badge distribution form.
-  validations:
+        - label: Azure SQL
+          required: false 
+  - type: input
+    id: question_1
+    attributes:
+      label: Scalability of your solution
+      description: How would this solution scale?
+    validations:
       required: true
+  - type: input
+    id: question_2
+    attributes:
+      label: Security of your solutiuon
+      description: How does this solution ensure security best practices?
+    validations:
+      required: true
+  - type: input
+    id: question_3
+    attributes:
+      label: AI-power of your solution
+      description: How is this solution AI powered?
+    validations:
+      required: true
+  - type: input
+    id: url_repo
+    attributes:
+      label: Project Repository URL
+      description: URL of the GitHub repo with your project
+    validations:
+      required: true
+  - type: input
+    id: url_setup
+    attributes:
+      label: Project Setup Instructions URL
+      description: Direct URL of the written setup instructions for your project
+    validations:
+      required: true
+  - type: input
+    id: video
+    attributes:
+      label: Project video
+      description: A short demo video of your project. This should be no longer than 8 minutes.
+    validations:
+      required: true
+      required: true
+  - type: input
+    id: teammembers
+    attributes:
+      label: Team Members
+      description: Comma-separated list of GitHub users who worked on this project
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Badge validation
+      description: In order to receive your badge, please fill out the following form - aka.ms/PowerfulDevs/Badges. Every member on the team must submit this form to receive a badge. If you do not submit this form, you will not receive a badge. Please check this box to confirm all team members have submitted the badge distribution form.
+      options:
+        - label: I verify that all of my team members have completed the badge validation form at aka.ms/PowerfulDevs/Badges.
+          required: true
+

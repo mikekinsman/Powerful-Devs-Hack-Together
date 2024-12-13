@@ -1,4 +1,4 @@
-name: 'Powerful Devs: Hack Together Project Submission Form'
+name: "Powerful Devs: Hack Together Project Submission Form"
 description: Share your project with us to get a digital badge and win prizes
 title: "Project: <short description>"
 body:
@@ -45,7 +45,7 @@ body:
           required: false
         - label: Azure
           required: false
-  - type: input
+- type: input
     id: question_1
     attributes:
       label: Scalability of your solution

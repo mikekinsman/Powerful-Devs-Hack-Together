@@ -1,5 +1,5 @@
 name: Powerful Devs: Hack Together Project Submission Form
-description: Share your project with us to get a digital badge and win prizes
+description: "Share your project with us to get a digital badge and win prizes"
 title: "Project: <short description>"
 body:
   - type: input
@@ -46,56 +46,50 @@ body:
         - label: Azure
           required: false
 - type: input
-    id: question_1
-    attributes:
-      label: Scalability of your solution
-      description: How would this solution scale?
-    validations:
-      required: true
+  id: question_1
+  attributes:
+    label: Scalability of your solution
+    description: How would this solution scale?
+  validations:
+    required: true
 - type: input
-    id: question_1
-    attributes:
-      label: Scalability of your solution
-      description: How would this solution scale?
-    validations:
-      required: true
+  id: question_2
+  attributes:
+    label: Security of your solution
+    description:  How does this solution ensure security best practices?
+  validations:
+    required: true
 - type: input
-    id: question_2
-    attributes:
-      label: Security of your solution
-      description:  How does this solution ensure security best practices?
-      required: true
+  id: question_3
+  attributes:
+    label: AI-power of your solution
+    description:   How is this solution AI powered?
+  validations:
+    required: true
 - type: input
-    id: question_3
-    attributes:
-      label: AI-power of your solution
-      description:   How is this solution AI powered?
-      required: true
+  id: url_repo
+  attributes:
+    label: Project Repository URL
+    description: Direct URL of the written setup instructions for your project
+  validations:
+    required: true
 - type: input
-    id: url_repo
-    attributes:
-      label: Project Repository URL
-      description: Direct URL of the written setup instructions for your project
-    validations:
+  id: video
+  attributes:
+    label: Project Video
+    description: A short demo video of your project
+  validations:
+    required: true
+- type: input
+  id: teammembers
+  attributes:
+    label: Team Members
+    description: Comma-separated list of GitHub users who worked on this project
+  validations:
+    required: true
+- type: checkboxes
+  attributes:
+    label: Badge validation
+    description: In order to recieve your badge, please fill out the following form: aka.ms/PowerfulDevs/Badges. Every member on the team must submit this form to recieve a badge. If you do not submit this form, you will not recieve a badge. Please check this box to confirm all team members have submitted the badge distribution form.
+  validations:
       required: true
-  - type: input
-    id: video
-    attributes:
-      label: Project Video
-      description: A short demo video of your project
-    validations:
-      required: true
-  - type: input
-    id: teammembers
-    attributes:
-      label: Team Members
-      description: Comma-separated list of GitHub users who worked on this project
-    validations:
-      required: true
- - type: checkboxes
-    attributes:
-      label: Badge validation
-      description: In order to recieve your badge, please fill out the following form: aka.ms/PowerfulDevs/Badges. Every member on the team must submit this form to recieve a badge. If you do not submit this form, you will not recieve a badge. Please check this box to confirm all team members have submitted the badge distribution form.
-      options:
-        - label: Integrations with external systems
-          required: true

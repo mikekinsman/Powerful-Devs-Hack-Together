@@ -59,5 +59,12 @@ body:
       description: URL of the GitHub repo with your project
     validations:
       required: true
+  - type: input
+    id: url_repo3
+    attributes:
+      label: Project Repository URL3
+      description: URL of the GitHub repo with your project
+    validations:
+      required: true
 
 

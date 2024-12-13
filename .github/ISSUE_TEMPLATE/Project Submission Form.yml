@@ -97,11 +97,11 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Badge validation
-      description: In order to receive your badge, please fill out the following form: aka.ms/PowerfulDevs/Badges. Every member on the team must submit this form to receive a badge. If you do not submit this form, you will not receive a badge. Please check this box to confirm all team members have submitted the badge distribution form.
+      label: Technology & Languages
+      description: Check any technologies or languages used for your solution.
       options:
-        - label: I verify that all of my team members have completed the badge validation form.
-        required: false
-        - label: I verify that too  all of my team members have completed the badge validation form.
-        required: false
-
+        - label: Copilot Studio
+          required: false
+        - label: Power Apps
+          required: false  
+    

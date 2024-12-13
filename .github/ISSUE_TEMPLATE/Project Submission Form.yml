@@ -22,8 +22,7 @@ body:
       description: Check any technologies or languages used for your RAG app.
       options:
         - label: JavaScript
-          required: false
-        
+          required: false     
   - type: input
     id: url_repo
     attributes:

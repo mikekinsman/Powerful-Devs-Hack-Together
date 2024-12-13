@@ -52,49 +52,5 @@ body:
     description: How would this solution scale?
   validations:
     required: true
-- type: input
-  id: question_2
-  attributes:
-    label: Security of your solution
-    description:  How does this solution ensure security best practices?
-  validations:
-    required: true
-- type: input
-  id: question_3
-  attributes:
-    label: AI-power of your solution
-    description:   How is this solution AI powered?
-  validations:
-    required: true
-- type: input
-  id: url_setup
-  attributes:
-    label: Project Setup Instructions URL
-    description: Direct URL of the written setup instructions for your project
-  validations:
-    required: true
-- type: input
-  id: video
-  attributes:
-    label: Project Video
-    description: A short demo video of your project
-  validations:
-    required: true
-- type: input
-  id: teammembers
-  attributes:
-    label: Team Members
-    description: Comma-separated list of GitHub users who worked on this project
-  validations:
-    required: true
-- type: checkboxes
-  attributes:
-    label: Badge validation
-    description: In order to recieve your badge, please fill out the following form: aka.ms/PowerfulDevs/Badges. Every member on the team must submit this form to recieve a badge. If you do not submit this form, you will not recieve a badge. Please check this box to confirm all team members have submitted the badge distribution form.
-    options:
-      - label: I verify that all of my team members have completed the badge validation form.
-        required: true
 
-
-        
 

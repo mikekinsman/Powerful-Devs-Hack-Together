@@ -35,7 +35,7 @@ body:
           required: false
         - label: .NET
           required: false
-        - label: Cosmos DB
+        - label: TypeScript
           required: false
         - label: Azure SQL
           required: false 

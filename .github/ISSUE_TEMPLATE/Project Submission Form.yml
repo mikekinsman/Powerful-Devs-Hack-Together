@@ -87,5 +87,12 @@ body:
       description: A short demo video of your project. This should be no longer than 8 minutes.
     validations:
       required: true
-
+      required: true
+  - type: input
+    id: teammembers
+    attributes:
+      label: Team Members
+      description: Comma-separated list of GitHub users who worked on this project
+    validations:
+      required: true
 

@@ -45,10 +45,3 @@ body:
           required: false
         - label: Azure
           required: false
-  - type: input
-    id: question_2
-    attributes:
-      label: Security of your solution
-      description:  How does this solution ensure security best practices?
-    validations:
-    required: true

@@ -73,5 +73,12 @@ body:
       description: Direct URL of the written setup instructions for your project
     validations:
       required: true
+  - type: input
+    id: video
+    attributes:
+      label: Project video
+      description: A short demo video of your project. This should be no longer than 8 minutes.
+    validations:
+      required: true
 
 

@@ -97,9 +97,9 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Technology & Languages 2
+      label: Badge validation
       description: Check any technologies or languages used for your solution.2
       options:
         - label: Copilot Studio2
-          required: false
+          required: true
 

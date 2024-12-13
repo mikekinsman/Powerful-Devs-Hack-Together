@@ -21,7 +21,7 @@ body:
       label: Technology & Languages
       description: Check any technologies or languages used for your RAG pp.
       options:
-        - label: JavaScript
+        - label: Copilot Studio
           required: false
         - label: Java
           required: false  

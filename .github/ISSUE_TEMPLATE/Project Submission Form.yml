@@ -43,7 +43,7 @@ body:
           required: false
         - label: M365
           required: false
-        - label: Azure SQL
+        - label: Azure
           required: false 
   - type: input
     id: question_1

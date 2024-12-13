@@ -29,7 +29,7 @@ body:
           required: false 
         - label: Power Pages
           required: false
-        - label: AI Studio
+        - label: AI (AI Builder, Copilot, Azure AI, etc.)
           required: false
         - label: AI Search
           required: false

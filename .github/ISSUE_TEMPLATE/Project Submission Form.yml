@@ -21,23 +21,23 @@ body:
       label: Technology & Languages
       description: Check any technologies or languages used for your RAG app.
       options:
-        - label: Copilot Studio
+        - label: JavaScript
           required: false
-        - label: Power Automate
+        - label: Java
           required: false  
-        - label: Power Apps
-          required: false 
-        - label: Power Pages
-          required: false
-        - label: AI (AI Builder, Copilot, Azure AI, etc)
-          required: false
-        - label: PowerFx
-          required: false
         - label: .NET
-          required: false
-        - label: Typescript
-          required: false
+          required: false 
         - label: Python
+          required: false
+        - label: AI Studio
+          required: false
+        - label: AI Search
+          required: false
+        - label: PostgreSQL
+          required: false
+        - label: Cosmos DB
+          required: false
+        - label: Azure SQL
           required: false 
   - type: input
     id: url_repo

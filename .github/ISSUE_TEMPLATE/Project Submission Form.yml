@@ -40,7 +40,11 @@ body:
         - label: TypeScript
           required: false
         - label: Python
-          required: false 
+          required: false
+        - label: M365
+          required: false
+        - label: Azure
+          required: false
   - type: input
     id: url_repo
     attributes:

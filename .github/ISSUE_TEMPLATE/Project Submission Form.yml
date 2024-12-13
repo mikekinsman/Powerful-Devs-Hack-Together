@@ -33,7 +33,7 @@ body:
           required: false
         - label: PowerFx
           required: false
-        - label: PostgreSQL
+        - label: .NET
           required: false
         - label: Cosmos DB
           required: false

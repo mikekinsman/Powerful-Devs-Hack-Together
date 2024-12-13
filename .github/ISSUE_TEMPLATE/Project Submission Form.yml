@@ -31,7 +31,7 @@ body:
           required: false
         - label: AI (AI Builder, Copilot, Azure AI, etc.)
           required: false
-        - label: AI Search
+        - label: PowerFx
           required: false
         - label: PostgreSQL
           required: false

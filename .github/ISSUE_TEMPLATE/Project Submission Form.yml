@@ -27,7 +27,7 @@ body:
           required: false  
         - label: Power Automate
           required: false 
-        - label: Python
+        - label: Power Pages
           required: false
         - label: AI Studio
           required: false

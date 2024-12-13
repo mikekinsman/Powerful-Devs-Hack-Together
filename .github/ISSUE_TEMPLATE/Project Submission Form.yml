@@ -23,22 +23,7 @@ body:
       options:
         - label: JavaScript
           required: false
-        - label: Java
-          required: false  
-        - label: .NET
-          required: false 
-        - label: Python
-          required: false
-        - label: AI Studio
-          required: false
-        - label: AI Search
-          required: false
-        - label: PostgreSQL
-          required: false
-        - label: Cosmos DB
-          required: false
-        - label: Azure SQL
-          required: false 
+        
   - type: input
     id: url_repo
     attributes:

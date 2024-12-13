@@ -59,7 +59,7 @@ body:
       description: How would this solution scale?
     validations:
       required: true
-  - type: input
+- type: input
     id: question_2
     attributes:
       label: Security of your solution

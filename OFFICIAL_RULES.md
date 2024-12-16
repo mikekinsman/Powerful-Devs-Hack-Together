@@ -32,7 +32,7 @@ Employees and directors of Microsoft Corporation and its subsidiaries, affiliate
 
 No Purchase Necessary.
 
-To enter, visit https://aka.ms/powerfuldevs/hacktogether to submit a project. By submitting a project, you will receive one (1) entry into the Sweepstakes drawing whether you are an individual or team. 
+To enter, visit <https://aka.ms/powerfuldevs/hack> to submit a project. By submitting a project, you will receive one (1) entry into the Sweepstakes drawing whether you are an individual or team. 
 
 There is an overall limit of 1 entry per person/team. You can only be a member of one team. Only one person from a team needs to submit the project, with all team member names included. Any attempt by you to obtain more than the stated number of entries by using multiple/different accounts, identities, registrations, logins, or any other methods will void your entries and you may be disqualified. Use of any automated system to participate is prohibited. 
 
@@ -49,7 +49,7 @@ Please note the video portion of your entry must be solely your own work, includ
 - You must have obtained all consents, approvals, or licenses required for you to submit your entry; and
 - To the extent that entry requires the submission of user-generated content such as software, photos, videos, music, artwork, essays, etc., entrants warrant that their entry is their original work, has not been copied from others without permission or apparent rights, and does not violate the privacy, intellectual property rights, or other rights of any other person or entity. You may include Microsoft trademarks, logos, and designs, for which Microsoft grants you a limited license to use for the sole purposes of submitting an entry into this Contest; and
 - Your entry may NOT contain, as determined by us in our sole and absolute discretion, any content that is obscene or offensive, violent, defamatory, disparaging, or illegal, or that promotes alcohol, illegal drugs, tobacco or a particular political agenda, or that communicates messages that may reflect negatively on the goodwill of Microsoft; and
-- The video portion of your entry must be no more than five (5) minutes in length; and
+- The video portion of your entry must be no more than eight (8) minutes in length; and
 - The video portion of your entry must include the following content:
 1. A demonstration of your entry;
 2. A description of your experience and the technologies used to build your entry;
@@ -67,10 +67,9 @@ Your entry may be posted on a public website. We are not responsible for any una
 Pending confirmation of eligibility, potential prize winners will be selected by Microsoft or their Agent or a qualified judging panel from among all eligible entries received based on the following judging criteria:
 
 - 20% - Innovation
-- 20% - Impact
-- 20% - Usability
-- 20% - Solution Quality
-- 20% - Alignment with hackathon category (Best in Integrations, Best in Automation, Best in Agents etc.)
+- 20% - Real-World Impact
+- 20% - Technical Usability & Solution Quality 
+- 40% - Alignment with hackathon category (Best in Integrations, Best in Automation, Best in Agents etc.)
 
 Winners will be selected within fourteen (14) business days following the Entry Period from among all eligible entries received. In the event of a tie between any eligible entries, an additional judge will break the tie based on the judging criteria described above. The decisions of the judges are final and binding.  If we do not receive enough entries meeting the entry requirements, we may, at our discretion, select fewer winners than the number of Contest Prizes described below. If the winner is a Team, the Prize will be awarded to the Team Leader, who will be responsible for distributing it among the rest of the Team Members.
 
@@ -123,7 +122,7 @@ This Contest will be governed by the laws of the State of Washington, and you co
 
 **13. WINNERS LIST**
 
-Send an email to hacktogether@microsoft.com with the subject line “The Microsoft Powerful Devs Hack winners” within thirty (30) days of February 28th, 2025 to receive a list of winners that received a prize.
+Send an email to hacktogether@microsoft.com with the subject line “The Microsoft Powerful Devs Hack winners” within thirty (30) days of March 17th, 2025 to receive a list of winners that received a prize.
 
 ## Terms and Conditions
 

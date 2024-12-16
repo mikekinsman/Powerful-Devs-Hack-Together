@@ -27,9 +27,11 @@ Read the [official rules](https://github.com/microsoft/Powerful-Devs-Hack-Togeth
 
 Hack submissions are due February 28th, 11:59 PM PST.
 Submit your project here in GitHub Issues when it's ready🚀
+**🚀 [Project Submission Form](https://aka.ms/PowerfulDevs/ProjectSubmission)**
 
-Check out this video for step by step project submission guidance (Coming Soon)
 
+Check out this video for step by step project submission guidance:
+**[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
 
 
 ## Prizes and Categories 🏅

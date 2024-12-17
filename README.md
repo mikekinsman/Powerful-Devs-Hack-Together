@@ -14,7 +14,8 @@ The conference is on February 12th and the corresponding hackathon runs from Feb
 
 ## Register
 
-Register for the hackathon using any of the sessions linked on the Reactor Series page. This will register you for both the selected session and the hackathon.
+Register for the hackathon using any of the sessions linked on the [Reactor Series page](aka.ms/PowerfulDevs). This will register you for both the selected session and the hackathon.
+
 Introduce yourself and look for teammates here on GitHub Discussions.
 
 

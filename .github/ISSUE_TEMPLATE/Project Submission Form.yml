@@ -19,7 +19,7 @@ body:
   - type: checkboxes
     attributes:
       label: Technology & Languages
-      description: Check any technologies or languages used for your solution.
+      description: Check any technologies and languages used for your solution.
       options:
         - label: Copilot Studio
           required: false
@@ -29,22 +29,27 @@ body:
           required: false 
         - label: Power Pages
           required: false
-        - label: AI (AI Builder, Copilot, Azure AI, etc.)
+        - label: AI Builder
+          required: false
+        - label: Microsoft Fabric/Power BI
+          required: false
+        - label: Microsoft 365
           required: false
         - label: Integrations with external systems
           required: false
-        - label: PowerFx
+        - label: Azure (e.g. Azure AI Foundry or Azure Functions)
           required: false
-        - label: .NET
+        - label: Microsoft 365 Agents SDK
+          required: false
+        - label: Power Fx
+          required: false
+        - label: C#
           required: false
         - label: TypeScript
           required: false
         - label: Python
           required: false
-        - label: M365
-          required: false
-        - label: Azure
-          required: false 
+          
   - type: input
     id: question_1
     attributes:

@@ -23,6 +23,28 @@ Introduce yourself and look for teammates here on GitHub Discussions.
 
 Read the [official rules](https://github.com/microsoft/Powerful-Devs-Hack-Together/blob/main/OFFICIAL_RULES.md) 📃
 
+## Stream Schedule
+
+### English
+
+#### Week 1: February 17-21st
+
+| Day/Time              | Topic                    |
+| --------------------- | ------------------------ |
+| 2/18, 04:00 PM UTC / 09:00 AM PT    | [Powerful Devs Hack Kickoff: All About AI](https://developer.microsoft.com/en-us/reactor/events/24444/) |
+| 2/19, 04:00 PM UTC / 09:00 AM PT    | [The Developer's Approach to Power Automate](https://developer.microsoft.com/en-us/reactor/events/24446/) |
+
+#### Week 2: February 24th-28th
+
+| Day/Time              | Topic                    |
+| --------------------- | ------------------------ |
+| 2/24, 04:00 PM UTC / 09:00 AM PT    | [Securing Microsoft Copilot Studio Integration with External Connectors](https://developer.microsoft.com/en-us/reactor/events/24447/) |
+| 2/26, 04:00 PM UTC / 09:00 AM PT    | [Powerful Devs Hack Overview: Building Powerful Solutions](https://developer.microsoft.com/en-us/reactor/events/24445/) |
+
+
+## Office Hours
+
+For additional help with your hacks, you can drop by Office Hours. The Offical Office Hours schedule will be posted at the beginning of February.
 
 ## Project Submission
 

@@ -13,7 +13,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Provide a short description of your solution. What data sources did you use? Who can benefit from your app?
+      description: Provide a short description of your solution. What does it do? What problems does it solve?
     validations:
       required: true
   - type: checkboxes
@@ -50,21 +50,21 @@ body:
         - label: Python
           required: false
           
-  - type: input
+  - type: textarea
     id: question_1
     attributes:
       label: Scalability of your solution
       description: How would this solution scale?
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: question_2
     attributes:
-      label: Security of your solutiuon
+      label: Security of your solution
       description: How does this solution ensure security best practices?
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: question_3
     attributes:
       label: AI-power of your solution
@@ -89,7 +89,7 @@ body:
     id: video
     attributes:
       label: Project video
-      description: A short demo video of your project. This should be no longer than 8 minutes.
+      description: Provide a link to a short demo video of your project. This should be no longer than 8 minutes. Preference is to have the video uploaded to YouTube as an unlisted video so that our judging panel can review the video. If you cannot upload to YouTube, please make sure that your video is publicly available for our judges to access.
     validations:
       required: true
       required: true
@@ -97,7 +97,7 @@ body:
     id: teammembers
     attributes:
       label: Team Members
-      description: Comma-separated list of GitHub users who worked on this project
+      description: Comma-separated list of GitHub usernames for all who worked on this project
     validations:
       required: true
   - type: checkboxes

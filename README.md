@@ -44,7 +44,27 @@ Read the [official rules](https://github.com/microsoft/Powerful-Devs-Hack-Togeth
 
 ## Office Hours
 
-For additional help with your hacks, you can drop by Office Hours. The Offical Office Hours schedule will be posted at the beginning of February.
+For additional help with your hacks, you can drop by Office Hours. You can also ask questions on the [Powerful Devs Hack Discord](https://aka.ms/powerfuldevs/hack/discord)
+
+#### Week 1: February 17-21st
+
+| Day/Time              | Link                    |
+| --------------------- | ------------------------ |
+| 2/18, 10:00 PM UTC / 02:00 PM PT   | [2/18 Office Hours](https://discord.gg/xeCyF5Xy?event=1332387737722032128) |
+| 2/20, 9:00 AM UTC / 12:00 AM PT   | [2/20 Office Hours](https://discord.gg/xeCyF5Xy?event=1332388177293475894) |
+
+#### Week 2: February 24th-28th
+
+| Day/Time              | Link                   |
+| --------------------- | ------------------------ |
+| 2/25, 10:00 PM UTC / 02:00 PM PT    | [2/25 Office Hours](https://discord.gg/xeCyF5Xy?event=1332388446324523068) |
+| 2/27, 09:00 AM UTC / 12:00 AM PT    | [2/27 Office Hours](https://discord.gg/xeCyF5Xy?event=1332388661194657864) |
+
+
+
+
+
+
 
 ## Project Submission
 
@@ -72,4 +92,34 @@ Each winning team in the categories below will receive a cash prize of $550. �
 * Best in AI
 
 All hackathon participants who submit a project will receive a digital badge. In order to recieve the digital badge, all participants must submit this form: **[Badge Submission Form](https://aka.ms/PowerfulDevs/Badges)** by Feb 28th, 11:59PM PST. The GitHub handle must match the handle submitted in the Project Submission Form. 
+
+
+## Powerful Devs Resources: Samples
+Below are samples recommended by the Powerful Devs Conference and Hack Together team. Use these to get inspired for your hack project!
+
+* [Power Platform Snippets](https://aka.ms/powerplatform-snippets) 
+* [Power Platform Prompts Library](https://aka.ms/power-prompts)
+* [Adaptive Cards Samples and Templates](https://adaptivecards.io/samples/)
+* [Power Platform Creator Kit](https://aka.ms/creatorkit) 
+* [Pnp Power Platform Samples](https://pnp.github.io/powerplatform-samples/)
+
+## Powerful Devs Session-Specific Resources
+Below are resources curated by the speakers of the Powerful Devs Conference. Use this to continue your learning journey!
+
+| Session Title            | Resources  | Speaker(s) |
+| --------------------- | ---------------------- | ------ |
+| Maximizing the value of Generative AI in Copilot Studio | <ul><li> [Knowledge Sources Overview](https://learn.microsoft.com/en-us/microsoft-copilot-studio/knowledge-copilot-studio) </li><li>[Natual Language Topic Authoring](https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-authoring)</li> <li> [Generative Orchestration](https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-generative-actions) </li>  <li>  [Generative Orchestration](https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-generative-actions) </li> <li>  [Tips for authoring descriptions](https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-generative-actions) </li>  </ul>| [Lauren Mills](https://developer.microsoft.com/en-us/reactor/events/24442/)| 
+|  No more secrets! Using Managed Identities in Dataverse Plugins  | <ul><li> [Sample Project](https://github.com/delegateas/XrmBedrock) </li> </ul> | [Magnus Sørensen](https://developer.microsoft.com/en-us/reactor/events/24442/) |
+| Get Your Code Together! | <ul><li> [Documentation for Canvas Source Code](https://review.learn.microsoft.com/en-us/power-apps/maker/canvas-apps/power-apps-yaml?branch=main) </li> <li> [Documentation for GIT Integration](https://learn.microsoft.com/en-us/power-platform/alm/git-integration/overview) </li> <li> [Sample Repo](https://aka.ms/powerdev) </li> </ul> | [Albert-Jan Schot; Marcel Ferreira](https://developer.microsoft.com/en-us/reactor/events/24442/) |
+| The different flavors of ALM in the Power Platform: which one is right for you? | <ul> <li> [ALM in Power Platform](https://learn.microsoft.com/en-us/power-platform/alm/) </li> <li> [Pipelines in Power Platform](https://learn.microsoft.com/en-us/power-platform/alm/set-up-pipelines) </li> <li> [Extend Pipelines](https://learn.microsoft.com/en-us/power-platform/alm/extend-pipelines) </li> <li> [ALM Accelerator](https://learn.microsoft.com/en-us/power-platform/guidance/alm-accelerator/overview) </li> <li> [Automated testing, Test Studio in Azure DevOps]( https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/test-studio-classic-pipeline-editor) </li> </ul> | [Feline Parein](https://developer.microsoft.com/en-us/reactor/events/24442/) |
+| Building cross platform desktop apps with Dataverse and .NET MAUI | <ul><li> [Build Your First App](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?view=net-maui-9.0&tabs=vswin&pivots=devices-windows) </li> <li> [.NET MAUI for Beginners YouTube]() </li> <li> [.NET MAUI Resources by Javier Suárez](https://github.com/jsuarezruiz/awesome-dotnet-maui) </li> <li> [.NET Conf 2024 Videos]() </li> <li> [.NET Core SDK](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/org-service/overview) </li> <li> [Microsoft Dataverse Web API](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/webapi/overview) </li> </ul> | [Carl Cookson](https://developer.microsoft.com/en-us/reactor/events/24442/) |
+| Extend your Copilot with connectors | <ul> <li> [Extend Microsoft 365 Copilot or Copilot agents with connector actions](https://learn.microsoft.com/en-us/microsoft-copilot-studio/microsoft-copilot-extend-action-connector) </li> <li> [Extend Microsoft 365 Copilot with Copilot agents](https://learn.microsoft.com/en-us/microsoft-copilot-studio/microsoft-copilot-extend-copilot-extensions) </li> | [Mankirat Kaur Bajwa; Nathan Helgren](https://developer.microsoft.com/en-us/reactor/events/24442/) | 
+| 5 ways to leverage Power Pages VS Code Copilot to increase productivity | <ul> <li> [Zero to Hero: Power Pages & AI Mentorship](https://www.youtube.com/playlist?list=PLY78FEdXz6KTfV-VrKgqnlBtHXpWEsPC4) </li> <li> [Power Pages Plus: Free Templates](https://www.powerpagesplus.com/) </li> <li> [Power Pages Online Workshop](https://learn.microsoft.com/en-us/training/paths/power-pages-online-workshop/) | [Victor Dantas](https://developer.microsoft.com/en-us/reactor/events/24442/) |
+| Mastering automated testing in Power Platform: From unit tests to CI/CD integration | <ul> <li> [Power Apps Test Engine](https://microsoft.github.io/PowerApps-TestEngine/) </li> <li> [Getting Started](https://microsoft.github.io/PowerApps-TestEngine/context/getting-started/) </li> <li> [Business Learn Module](https://microsoft.github.io/PowerApps-TestEngine/learning/business-path/) </li> <li> [Architecture Learn Module](https://microsoft.github.io/PowerApps-TestEngine/learning/architecture/) </li> <li> [Technical Learn Module](https://microsoft.github.io/PowerApps-TestEngine/learning/technical/) </li> <li> [Learning Playground](https://microsoft.github.io/PowerApps-TestEngine/learning/playground/) </li> <li> [Discussion](https://microsoft.github.io/PowerApps-TestEngine/discussion/) </li> </ul> | [Grant Archibald](https://developer.microsoft.com/en-us/reactor/events/24442/) |
+| Building mega apps with the Power Platform | <ul> <li> [D365 and M65 compliance center](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home) </li> <li> [The Power Platform guidance documentation](https://learn.microsoft.com/en-us/power-platform/guidance/) </li> <li> [D365 Guidance documentation](https://learn.microsoft.com/en-us/dynamics365/guidance/) </li> <li> [D365 Fast Track Website](https://www.microsoft.com/en-us/dynamics-365/fast-track-implementation) </li> </ul> | [Rami Mounla](https://developer.microsoft.com/en-us/reactor/events/24442/)
+
+## Powerful Devs Additional Learning Materials
+* [AI in Action: Powering up with Power Automate](https://aka.ms/ai-in-action)
+* [AI in Action: Building with Copilot Studio](https://aka.ms/ai-in-action/building-with-mcs)
+* [Microsoft 365 Agents SDK](https://microsoft.github.io/Agents/)
 
